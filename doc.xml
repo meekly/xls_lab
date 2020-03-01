@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="stylesheet.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="" ?>
+<root>
 <строка>
   <операнд>σ</операнд>
   <оператор>=</оператор>
@@ -53,3 +54,4 @@
   </корень>
   <оператор>.</оператор>
 </строка>
+</root>
